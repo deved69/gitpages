@@ -34,7 +34,7 @@
   <script src="http://deepthivenkat.github.io/gitpages/theme/js/init.js"></script>
   <script src="http://deepthivenkat.github.io/gitpages/theme/js/jquery.min.js"></script>
   <script src="http://deepthivenkat.github.io/gitpages/theme/js/skel-layers.min.js"></script>
-    <link rel="canonical" href="http://deepthivenkat.github.io/gitpages/index.html" />
+    <link rel="canonical" href="http://deepthivenkat.github.io/gitpages/aboutme.html" />
 
    
 
@@ -74,8 +74,8 @@
 <section id="content" class="body">
   <header>
     <h2 class="entry-title">
-      <a href="http://deepthivenkat.github.io/gitpages/index.html" rel="bookmark"
-         title="Permalink to index">index</a></h2>
+      <a href="http://deepthivenkat.github.io/gitpages/aboutme.html" rel="bookmark"
+         title="Permalink to aboutme">aboutme</a></h2>
  
   </header>
   <footer class="post-info">
@@ -89,13 +89,16 @@
   <div class="entry-content">
     
 
-		
+		<!-- Header -->
+			
+
+		<!-- Banner -->
 			
 		<!-- Three -->
 			<section id="three" class="wrapper style3 special">
 				   <div align="center" position="relative">
 
-					<img id="IntroImage" src="{{ site.url }}/Images/me.jpg" alt="Pic"></div>
+					<img id="IntroImage" src="http://deepthivenkat.github.io/gitpages/Images/me.jpg" alt="Pic"></div>
 				
 <div align="center" position="relative" style="width:100%;"><p style="font-size: 1.1em; align: right;  text-align: justify;
     -moz-text-align-last: center;

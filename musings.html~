@@ -34,7 +34,7 @@
   <script src="http://deepthivenkat.github.io/gitpages/theme/js/init.js"></script>
   <script src="http://deepthivenkat.github.io/gitpages/theme/js/jquery.min.js"></script>
   <script src="http://deepthivenkat.github.io/gitpages/theme/js/skel-layers.min.js"></script>
-    <link rel="canonical" href="http://deepthivenkat.github.io/gitpages/index.html" />
+    <link rel="canonical" href="http://deepthivenkat.github.io/gitpages/musings.html" />
 
    
 
@@ -74,8 +74,8 @@
 <section id="content" class="body">
   <header>
     <h2 class="entry-title">
-      <a href="http://deepthivenkat.github.io/gitpages/index.html" rel="bookmark"
-         title="Permalink to index">index</a></h2>
+      <a href="http://deepthivenkat.github.io/gitpages/musings.html" rel="bookmark"
+         title="Permalink to Musings">Musings</a></h2>
  
   </header>
   <footer class="post-info">
@@ -90,32 +90,65 @@
     
 
 		
-			
-		<!-- Three -->
-			<section id="three" class="wrapper style3 special">
-				   <div align="center" position="relative">
+		
 
-					<img id="IntroImage" src="{{ site.url }}/Images/me.jpg" alt="Pic"></div>
-				
-<div align="center" position="relative" style="width:100%;"><p style="font-size: 1.1em; align: right;  text-align: justify;
-    -moz-text-align-last: center;
-    text-align-last: center;"><br />
-Hi! I am Deepthi.<br /><br /></p>
-<p style="font-size: 1.1em; align: center;  text-align: justify;
-    -moz-text-align-last: justify;
-    text-align-last: justify;">I build softwares that crunch data and provide useful information.
-I am currently a part of SAP Labs and I help people at SAP to make some amazing analysis out of their data.
-Born and raised amidst the kongu culture,I can never get enough of yummy sambhar,briyani and pongal.
-I love the serendipity aspect of travelling-you will never know how lovely that next thing you see is going to be! <br />
-</p></div>
-                              
-				
+<section id="main" class="wrapper">
+				<div class="container">
 
+					<header class="major">
+						<h2>Musings & Food</h2>
+						
+					</header>
+<h3>Food</h3>
 
-			</section> 
+<a href="#paanipoori" class="image fit">Paani poori</a>
 
+<h3>Musings</h3>
+					<a href="http://www.zoominfo.com/CachedPage/?archive_id=0&amp;page_id=6478254299&amp;page_url=//www.thehindu.com/arts/cinema/my-five/article4123087.ece&amp;page_last_updated=2012-11-22T17:19:33&amp;firstName=Deepthi&amp;lastName=Venkitaramanan" class="image fit">My favorite list of movies</a>
+
+<a href="http://www.thehindu.com/features/homes-and-gardens/design/colours-bring-to-life-the-dimensions-of-a-house/article5586958.ece" class="image fit"> Planning to paint your house?Take a look at this!</a>
+
+<a href="#Ramblings" class="image fit">Ramblings of a wise old woman</a>
+
+<section id="main" class="wrapper">
+				<div class="container">
+<p>Lets gear up and make some awesome paani poori! Here, look at this picture and get tempted!</p><br /><br />
+<a href="#" class="image fit"><img src="/Images/download.jpg" alt="" /></a>
+<p><h4>Paani poori Recipe</h4><br /><br />
+<h4>Poori :</h4> To make the entire cooking process hassle free, outsource the poori cooking task by buying readymade pooris from shop.<br /><br />
+<h4>Stuffing:</h4><br /><br />
+Pressure cook potatoes, chickpeas, green gram, kidney beans for about 40 minutes  and allow it to cool down.
+In the meantime, paani preparation can be done.<br /><br />
+<h4>Paani:</h4><br />
+<h4>Ingredients:</h4> <br />
+Coriander leaves (200 gms)<br />
+Mint leaves (200 gms)<br />
+Chilies (3-4)<br />
+Garlic (2-3 cloves)<br />
+Ginger (small piece)<br />
+Cumin seeds (10 grams)<br />
+Tamarind (3-4 grams)<br />
+Black Salt (few pinches)<br /><br />
+Make the above ingredient a paste. Refrigerate the water in advance, add this mixture and still well. Squeeze a generous portion of lemon, preferably the whole lemon.
+Now remove the cereals and potatoes out of the pressure cooker mash them finely. Heat oil in the pan, add the mashed cereals, potato and add salt, chili powder, garam masala, cumin powder, turmeric powder (1 pinch).Garnish it with coriander and a lot of onions.<br />
+Sweet chutney: <br /><br />
+<h4>Ingredients:</h4> <br />Boil deseeded dates (10), tamarind (25 grams) and crush them in a mixer grinder. Now extract the liquid out and discard the fiber using the colander. Now boil the extracted liquid, add jiggery, black salt, cumin powder and mix them well.<br /><br />
+PS: don’t forget to add some gram flour sev to make it crunchy!<br />
+</p>
+</div> </section>
+
+<a name="Ramblings">
+<h3>Random Thoughts</h3></a>
+<ul>
+					<li type="1"><p>If you are an answer, others will question.The trick is to be the:<ul style="text-indent:50px;"><li type="square">Question</li><li type="square">Unquestionable answer</li></ul></p></li>
+					<li type="1"><p>Learn it the first time! Don't let life show the same lessons to you once again!</p></li>
+					</ul>
+
+				</div>
+			</section>
 
 		
+				
 
 	
   </div><!-- /.entry-content -->

@@ -95,7 +95,7 @@
 			<section id="three" class="wrapper style3 special">
 				   <div align="center" position="relative">
 
-					<img id="IntroImage" src="{{ site.url }}/Images/me.jpg" alt="Pic"></div>
+					<img id="IntroImage" src="http://deepthivenkat.github.io/gitpages/Images/me.jpg" alt="Pic"></div>
 				
 <div align="center" position="relative" style="width:100%;"><p style="font-size: 1.1em; align: right;  text-align: justify;
     -moz-text-align-last: center;
